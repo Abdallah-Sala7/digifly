@@ -1,0 +1,43 @@
+{
+  "navigation": {
+    "home": "Home",
+    "sections": "Sections",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+
+  "common": {
+    "digifly": "Digifly",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "email": "Email",
+    "phone": "Mobile Number",
+    "send": "Send",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "add-user": "Add New User",
+    "user-added-successfully": "User added successfully",
+    "search-by-first-name": "Search by First Name",
+    "user-deleted-successfully": "User deleted successfully",
+    "user-updated-successfully": "User updated successfully",
+    "error-msg": "Something went wrong, please try again later",
+    "update": "Update",
+    "no-data": "No data to display",
+    "copyright": "All rights reserved &copy; Digifly __year__"
+  },
+
+  "part-1": {
+    "title": "Part 1",
+    "desc": "Utilize the provided Strapi API from the assessment to post user data into your Redux store. You are required to add one user into the 'users' collection and display this data in a table using a GET request. Ensure the implementation of Redux for state management, including both POST requests for adding a user and GET requests for displaying data in the table."
+  },
+
+  "part-2": {
+    "title": "Part 2",
+    "desc": "Implement a map using any library of your choice (Leaflet is recommended). Search for the coordinates of 'Digifly Company' on Google Maps, then place a tooltip at these coordinates. Ensure that the tooltip styling matches the provided design below."
+  },
+
+  "part-3": {
+    "title": "Part 3",
+    "desc": "Implement a text editor that precisely replicates the UI styles provided. It's essential to create the undo and redo functionalities from scratch, along with two additional features of your choice. You may use any package, but creating these functionalities from scratch will be advantageous. Ensure that all text editor functionalities are operational."
+  }
+}
